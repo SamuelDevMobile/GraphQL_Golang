@@ -11,8 +11,8 @@ $ git clone https://github.com/SamuelDevMobile/GranphQL_Golang.git
 Abra-o no seu VSC (Visual Studio Code)
 ![Captura de Tela 2022-11-02 às 00 48 46](https://user-images.githubusercontent.com/26841238/199391008-6f05552d-ef78-4e67-8206-2d5e123e1950.png)
 
-#Você precisará criar duas tabelas usando o sqlite3
-### OBS: se não tiver o sqlite3, instale-o, é bem simples.
+Você precisará criar duas tabelas usando o sqlite3.
+OBS: se não tiver o sqlite3, instale-o, é bem simples.
 ```sh
 create table categories (id string, name string, description string);
 ```
