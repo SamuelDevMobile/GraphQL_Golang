@@ -27,10 +27,3 @@ Se você já tiver golang instalado, pode executar o comando.
 go run cmd/server/server.go
 ```
 Se não tiver o golang instalado, recomendo usar docker para criar um container em docker :)
-
-## Ambiente de teste
-```
-Feito localmente parça. ;)
-```
-
-## Volte sempre :)
