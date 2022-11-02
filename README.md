@@ -6,13 +6,17 @@ Este projeto consiste no entendimento nos conceitos de uma comunicação de sist
 ## Configuração do projeto
 Ele pode ser baixado conforme abaixo:
 ```sh
-$ git clone https://github.com/SamuelDevMobile/AppMarvelStudios.git
+$ git clone https://github.com/SamuelDevMobile/GranphQL_Golang.git
 ```
-Abra-o no seu Android Studio
-<img width="796" alt="Captura de Tela 2022-08-18 às 16 49 30" src="https://user-images.githubusercontent.com/26841238/185482115-adb2f78d-4b36-4cac-a6b7-d2806b0b7bc5.png">
+Abra-o no seu VSC (Visual Studio Code)
+![Captura de Tela 2022-11-02 às 00 48 46](https://user-images.githubusercontent.com/26841238/199391008-6f05552d-ef78-4e67-8206-2d5e123e1950.png)
 
-Execute o projeto no seguinte icone.
-<img width="24" alt="Captura de Tela 2022-08-18 às 16 50 33" src="https://user-images.githubusercontent.com/26841238/185482305-56a82404-d54c-4590-a658-b855461eb1d2.png">
+Se você já tiver golang instalado, pode executar o comando.
+```sh
+go run cmd/server/server.go
+```
+
+Se não tiver o golang instalado, recomendo usar docker para criar um container em docker :)
 
 ## Visão geral da arquitetura
 Este projeto foi construido com a linguagem Kotlin e construído com a arquitetura MVVM junto com LiveData, Coroutines para uma requisição assíncrona e Retrofit para se comunicar com a API da Marvel e Injeção de dependência com Koin.
