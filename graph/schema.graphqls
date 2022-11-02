@@ -1,5 +1,5 @@
 # GraphQL schema example
-#
+# Name tables categories e courses
 # https://gqlgen.com/getting-started/
 
 type Category {
