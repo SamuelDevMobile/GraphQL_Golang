@@ -1,4 +1,4 @@
-# Projeto para praticar e entender os conceitos de GraphQL.
+# Comunicação de Sistemas com GraphQL.
 
 ## Introdução
 Este projeto consiste no entendimento nos conceitos de uma comunicação de sistemas chamada GraphQL. Este framework criado pelo Facebook, possibilita o cliente solicitar aquilo que ele precisa para renderizar na tela. 
