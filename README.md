@@ -26,4 +26,9 @@ Se você já tiver golang instalado, pode executar o comando.
 ```sh
 go run cmd/server/server.go
 ```
+<img width="665" alt="Captura de Tela 2022-11-15 às 01 49 30" src="https://user-images.githubusercontent.com/26841238/201829124-839e9c8b-5567-4c06-a1d9-a6001a77d3c8.png">
+
+Divirta-se ;)
+<img width="1435" alt="Captura de Tela 2022-11-15 às 01 50 43" src="https://user-images.githubusercontent.com/26841238/201829250-f00f5ac5-6edb-49f6-a5de-e495602e75ae.png">
+
 Se não tiver o golang instalado, recomendo usar docker para criar um container em golang :)
